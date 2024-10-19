@@ -1,0 +1,15 @@
+:root {
+    /* Cores */
+    --black: #000000;
+    --white: #F8F8FF;
+    --yellow: #FFD700;
+    --grey: #778899;
+    --blue: #4169E1;;
+    --red: #B22222;
+
+    /* Tamanho de fontes */
+    --size12: 12px;
+    --size16: 16px;
+    --size24: 24px;
+    --size32: 32px;
+}

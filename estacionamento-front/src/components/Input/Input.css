@@ -1,0 +1,8 @@
+.app-input {
+    display: flex;
+    align-items: center;
+    padding: 8px 20px;
+    border-radius: 8px;
+    color: var(--black);
+    font-size: var(--size12);
+}

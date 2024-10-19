@@ -1,0 +1,8 @@
+.app-info-area {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 500px;
+    height: auto;
+    border: solid 2px var(--grey);
+}

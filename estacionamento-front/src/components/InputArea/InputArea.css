@@ -1,0 +1,10 @@
+.app-input-area {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.app-input-title {
+    color: var(--black);
+    font-size: var(--size24);
+}
